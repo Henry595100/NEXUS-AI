@@ -1,5 +1,5 @@
 #═══════[ CORE CONFIG ]═══════✧#
-SESSION_ID='Caseyrhodes~f9QmGTbQ#5_CMdkE_yU_OQkx3BvLWSUfzSNtu_6C6WFjafUzfh4Y'
+SESSION_ID='Caseyrhodes~ClYySJCT#sO9WPDi0mnr88fqN370rWC3oF-SeTOOZnZztYmU10sA'
 PREFIX="."
 PUBLIC_MODE='yes'
 
